@@ -15,4 +15,4 @@ providing interactive elements by changing button colors on hover.
 
 **Live Demo Link**
 -
-https://brooke-lin.github.io/huddle-landing-page/
+https://brooke-lin.github.io/WebProjects_HuddleLandingPage/
